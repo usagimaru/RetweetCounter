@@ -1,2 +1,4 @@
 # RetweetCounter
-Counter Label like Twitter App.
+UILabel Based Counter Label like Twitter App.
+
+![](tweets.gif)
